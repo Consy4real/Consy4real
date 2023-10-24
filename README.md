@@ -1,7 +1,7 @@
 
 [![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2Wy6fnpoTpzFbBer3AHg2v7vZie6LvoXrBEtKUhQmN0ONMjn8zDUVB6_Ki8RJvOnqNdM&usqp=CAU)](https://Consy4real.io)
-<img align="center" width= "200"> "[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2Wy6fnpoTpzFbBer3AHg2v7vZie6LvoXrBEtKUhQmN0ONMjn8zDUVB6_Ki8RJvOnqNdM&usqp=CAU)](https://Consy4real.io)"
-<img align="right" width= "200"> "[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2Wy6fnpoTpzFbBer3AHg2v7vZie6LvoXrBEtKUhQmN0ONMjn8zDUVB6_Ki8RJvOnqNdM&usqp=CAU)](https://Consy4real.io)"
+<img align="center" width= "100"> "[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2Wy6fnpoTpzFbBer3AHg2v7vZie6LvoXrBEtKUhQmN0ONMjn8zDUVB6_Ki8RJvOnqNdM&usqp=CAU)](https://Consy4real.io)"
+<img align="right" width= "100"> "[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2Wy6fnpoTpzFbBer3AHg2v7vZie6LvoXrBEtKUhQmN0ONMjn8zDUVB6_Ki8RJvOnqNdM&usqp=CAU)](https://Consy4real.io)"
 <h1 align="center">Hi 👋, I'm Constance Umeh</h1>
 <h3 align="center">A passionate data Scientist from Nigeria</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
